@@ -1,4 +1,5 @@
-# Before diving into the Operator Framework, this section will give an overview of Kubernetes API fundamentals. Although the Operator SDK makes creating an Operator fun and easy, understanding the structure and features of the Kubernetes API is required.
+# Before diving into the Operator Framework, this section will give an overview of Kubernetes API fundamentals.
+# Although the Operator SDK makes creating an Operator fun and easy, understanding the structure and features of the Kubernetes API is required.
 
 # Let's begin by creating a new project called `myproject`:
 oc new-project myproject
